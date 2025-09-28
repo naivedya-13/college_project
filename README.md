@@ -60,8 +60,8 @@ JWT_SECRET=secret
 ---
 
 ## 6. Submission Checklist
-- [x] Both apps run locally
-- [x] Screenshots added in `docs/screenshots/`
+- [x]  Apps run locally
+- [x] Screenshots added in upper
 - [x] Repo uploaded to GitHub with README
 
 ---
