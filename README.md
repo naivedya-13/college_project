@@ -30,7 +30,7 @@ RJCouriers is a package delivery website built with a menu-driven interface. The
 
 ## 3. Setup & Run
 ### Monolithic App
-1. Clone repo → `cd rjcouriers-monolith`
+1. Clone repo → `cd college_project`(## it consist of both microservice and monolithic structure)
 2. Install dependencies in `server` and `client`.
 3. Create `.env` with:
 ```
@@ -41,12 +41,6 @@ JWT_SECRET=secret
 4. Start: `npm run dev`
 5. Open: `http://localhost:3000`
 
-### Microservices App
-1. Clone repo → `cd rjcouriers-microservices`
-2. Install dependencies for each service (`auth`, `orders`, `tracking`, `gateway`, `ui`).
-3. Create `.env` for each service (PORT, MONGO_URI, JWT_SECRET).
-4. Run services individually or with Docker Compose.
-5. Open UI: `http://localhost:3000`
 
 ---
 
